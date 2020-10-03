@@ -1,0 +1,1 @@
+"Hej, lad os finde ud af om der overhovedet er hul igennem til Git."
